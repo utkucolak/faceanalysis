@@ -7,5 +7,7 @@ return some predicted values about face etc face, age...
 ## TODO:
 
 *Data downloanding
+
 *Weight downloanding
+
 *Model improvements
