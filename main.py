@@ -1,7 +1,7 @@
 from vidmodels import return_age, return_gender
 import cv2, time
 import numpy as np
-img_path = 'C:\\Users\\Casper\\Desktop\\faceanalysis\\helin.png'
+
 face_classifier = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 capture = cv2.VideoCapture(0)
 font = cv2.FONT_HERSHEY_SIMPLEX
