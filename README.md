@@ -6,8 +6,8 @@ return some predicted values about face etc face, age...
 
 ## TODO:
 
-*Data downloanding
+*Data downloading
 
-*Weight downloanding
+*Weight downloading
 
 *Model improvements
